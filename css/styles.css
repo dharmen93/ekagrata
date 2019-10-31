@@ -7911,13 +7911,13 @@ main {
 section, .section {
   position: relative; }
   section [class^='container'], .section [class^='container'] {
-    padding-top: 45px;
+    padding-top: 30px;
     position: relative; }
     section [class^='container'].bring-to-front, .section [class^='container'].bring-to-front {
       z-index: 9; }
     @media (min-width: 768px) {
       section [class^='container'], .section [class^='container'] {
-        padding-top: 70px; } }
+        padding-top: 40px; } }
   section .container-wide, .section .container-wide {
     overflow-x: hidden; }
     section .container-wide .row, .section .container-wide .row {
