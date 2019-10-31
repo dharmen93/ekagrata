@@ -7243,7 +7243,7 @@ main {
     .navigation .navbar-toggler .icon-bar {
       -webkit-transform: rotate(0deg);
               transform: rotate(0deg);
-      background-color: #9F55FF;
+      background-color: #0b4c8d;
       -webkit-transition: all .35s ease-in-out;
       transition: all .35s ease-in-out;
       display: block;
@@ -7325,7 +7325,7 @@ main {
   .navigation .sidebar-brand {
     padding: 1rem; }
   .navigation .nav-link {
-    color: #9F55FF;
+    color: #0b4c8d;
     font-family: "Poppins", sans-serif;
     font-size: 0.9rem;
     font-weight: 700;
@@ -7341,7 +7341,7 @@ main {
       color: #ffffff; }
       @media (max-width: 767.98px) {
         .navigation .nav-link.active, .navigation .nav-link:hover {
-          background: #9F55FF; } }
+          background:#0b4c8d; } }
   .navigation.navbar-sticky {
     position: fixed !important;
     background-color: #ffffff;
